@@ -1,10 +1,12 @@
-This resets your windows Network Stack entirely, without needing a reboot.
+This tool resets your Windows Network Stack entirely, without needing a reboot or any reconfiguration.
 
-Run 'reset.bat' every time your download stops or hits a very slow speed.
-
-Run 'reset_silent.bat' if you don't want to be bothered with a Y/N option or are automating.
-
-You *don't* have to reboot your computer, router or modem.
+You *don't* have to reboot your computer, router, or modem.
 Just run the batch, and voila.
 
-**If your internet stops working after running this, please run 'undo.bat'.**
+#Steps:
+
+1. Run 'reset.bat' every time your download stops or hits a very slow speed.
+
+1a. Run 'reset_silent.bat' if you don't want to be bothered with a Y/N option and/or are automating the process.
+
+#Disclaimer: **If your internet stops working after excecuting the batch files, go ahead and run 'undo.bat'.**
