@@ -9,4 +9,4 @@ Just run the batch, and voila.
 
 1a. Run 'reset_silent.bat' if you don't want to be bothered with a Y/N option and/or are automating the process.
 
-# Disclaimer: **If your internet stops working after excecuting the batch files, go ahead and run 'undo.bat'.**
+**Disclaimer: If your internet stops working after excecuting the batch files, go ahead and run 'undo.bat'.**
